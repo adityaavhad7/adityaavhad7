@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Avhad</h1>
-<h3 align="center">hey! , I’m ADITYA AVHAD a First-Year IT Engineering student driven by curiosity and a strong desire to build real-world solutions through technology.</h3>
+<h3 align="center">A First-Year IT Engineering student driven by curiosity and a strong desire to build real-world solutions through technology.</h3>
 
-- student at KKWAGHCOE **Undergraduate IT engineering**
+- First-Year IT Engineering Student at **K.K.Wagh College of Engineering**
 
 - 📫 How to reach me **adityaavhad72@gmail.com**
 
